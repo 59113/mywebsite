@@ -18,9 +18,9 @@
                                 <td><a href="https://twitter.com/nctsmtown?s=21">twitter</a></td>
                         </tr>
                         <tr>
-                                <td>2</td>
+                                <td>4</td>
                                 <td>คิม โดยอง</td>
-                                <td>โดยอง</td
+                                <td>โดยอง</td>
                                 <td><img src="https://f.ptcdn.info/294/073/000/qs7bck330uDqo9ZYmpic-o.jpg" width="130px"></td>
                                 <td><a href="https://twitter.com/nctsmtown?s=21">twitter</a></td>
                         </tr>
