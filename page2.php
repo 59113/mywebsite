@@ -7,7 +7,7 @@
 				height: 350px;
 			}
 			.box{
-				background-color: yellow;
+				background-color: orange;
 			}
 			body{
                                 background-color: lightpink;
@@ -18,7 +18,7 @@
 	</head>
 	<body>
 		<div id="box1" class="box">
-			<h1>นางสาวกชกร นามสิมมา ชั้น 4/13 เลขที่ 13</h1>
+			<h1>นางสาวปวริศา ใจวงค์ ชั้น 4/13 เลขที่ 29</h1>
 		</div>
 	</body>
 </html>
