@@ -7,13 +7,13 @@
 				height: 350px;
 			}
 			.box{
-				background-color: orange;
+				background-color: blue;
 			}
 			body{
                                 background-color: lightpink;
 			}
 			h1{
-				color: green;      
+				color: yellow;      
 		</style>
 	</head>
 	<body>
